@@ -1,0 +1,1 @@
+import '../migrations/001_add_category_id.js';
